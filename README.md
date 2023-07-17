@@ -1,4 +1,4 @@
-# Ophthalmic Disease Screening - README
+# Ophthalmic Disease Screening
 
 ## Introduction
 
